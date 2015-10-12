@@ -1,0 +1,226 @@
+[07-Apr-2015 20:22:17 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\actions\loginAction.php on line 26
+[07-Apr-2015 20:41:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'10.10.1.77' (using password: NO) in D:\home\ishop311.com\wwwroot\views\actions\loginAction.php on line 25
+[07-Apr-2015 20:41:59 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'10.10.1.77' (using password: NO) in D:\home\ishop311.com\wwwroot\views\actions\loginAction.php on line 25
+[07-Apr-2015 20:44:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'10.10.1.77' (using password: NO) in D:\home\ishop311.com\wwwroot\views\actions\loginAction.php on line 25
+[10-Apr-2015 20:10:16 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[10-Apr-2015 20:10:16 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[10-Apr-2015 20:10:16 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[10-Apr-2015 21:08:37 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[10-Apr-2015 21:08:39 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[10-Apr-2015 21:08:43 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[10-Apr-2015 21:10:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[10-Apr-2015 21:10:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[10-Apr-2015 21:11:15 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[10-Apr-2015 21:19:48 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 06:49:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 07:06:34 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 07:06:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 07:07:28 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 07:08:25 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 07:08:27 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 07:08:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 07:08:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 9
+[11-Apr-2015 07:23:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 11
+[11-Apr-2015 07:28:30 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 13
+[11-Apr-2015 07:28:32 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 13
+[11-Apr-2015 07:28:34 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 13
+[11-Apr-2015 07:28:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 13
+[11-Apr-2015 07:28:38 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 13
+[11-Apr-2015 07:28:40 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in D:\home\ishop311.com\wwwroot\views\Examples.php on line 13
+[11-Apr-2015 12:38:05 America/Chicago] PHP Warning:  include(nav.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 17
+[11-Apr-2015 12:38:05 America/Chicago] PHP Warning:  include(nav.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 17
+[11-Apr-2015 12:38:05 America/Chicago] PHP Warning:  include(): Failed opening 'nav.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\index.php on line 17
+[11-Apr-2015 12:39:00 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:00 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:00 America/Chicago] PHP Warning:  include(): Failed opening 'navm.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:10 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:10 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:10 America/Chicago] PHP Warning:  include(): Failed opening 'navm.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:36 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:36 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:36 America/Chicago] PHP Warning:  include(): Failed opening 'navm.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:39 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:39 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:39:39 America/Chicago] PHP Warning:  include(): Failed opening 'navm.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:40:08 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:40:08 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[11-Apr-2015 12:40:08 America/Chicago] PHP Warning:  include(): Failed opening 'navm.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 20
+[12-Apr-2015 14:05:53 America/Chicago] PHP Warning:  include(views/examples.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 70
+[12-Apr-2015 14:05:53 America/Chicago] PHP Warning:  include(views/examples.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 70
+[12-Apr-2015 14:05:53 America/Chicago] PHP Warning:  include(): Failed opening 'views/examples.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\index.php on line 70
+[12-Apr-2015 14:05:54 America/Chicago] PHP Warning:  include(views/examples.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 70
+[12-Apr-2015 14:05:54 America/Chicago] PHP Warning:  include(views/examples.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 70
+[12-Apr-2015 14:05:54 America/Chicago] PHP Warning:  include(): Failed opening 'views/examples.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\index.php on line 70
+[12-Apr-2015 14:07:21 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE mysql311.sp_CustomersInsert does not exist' in D:\home\ishop311.com\wwwroot\controllers\registerAction.php:16
+Stack trace:
+#0 D:\home\ishop311.com\wwwroot\controllers\registerAction.php(16): PDO->query('call sp_Custome...')
+#1 D:\home\ishop311.com\wwwroot\views\register.php(18): require('D:\home\ishop31...')
+#2 D:\home\ishop311.com\wwwroot\index.php(70): include('D:\home\ishop31...')
+#3 {main}
+  thrown in D:\home\ishop311.com\wwwroot\controllers\registerAction.php on line 16
+[12-Apr-2015 14:30:36 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in D:\home\ishop311.com\wwwroot\controllers\registerAction.php:20
+Stack trace:
+#0 D:\home\ishop311.com\wwwroot\controllers\registerAction.php(20): unknown()
+#1 D:\home\ishop311.com\wwwroot\views\register.php(18): require('D:\home\ishop31...')
+#2 D:\home\ishop311.com\wwwroot\index.php(70): include('D:\home\ishop31...')
+#3 {main}
+  thrown in D:\home\ishop311.com\wwwroot\controllers\registerAction.php on line 20
+[12-Apr-2015 14:32:10 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in D:\home\ishop311.com\wwwroot\controllers\registerAction.php:20
+Stack trace:
+#0 D:\home\ishop311.com\wwwroot\controllers\registerAction.php(20): unknown()
+#1 D:\home\ishop311.com\wwwroot\views\register.php(18): require('D:\home\ishop31...')
+#2 D:\home\ishop311.com\wwwroot\index.php(70): include('D:\home\ishop31...')
+#3 {main}
+  thrown in D:\home\ishop311.com\wwwroot\controllers\registerAction.php on line 20
+[14-Apr-2015 21:56:37 America/Chicago] PHP Warning:  include(controllers/registerValidate.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\views\register.php on line 20
+[14-Apr-2015 21:56:37 America/Chicago] PHP Warning:  include(controllers/registerValidate.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\views\register.php on line 20
+[14-Apr-2015 21:56:37 America/Chicago] PHP Warning:  include(): Failed opening 'controllers/registerValidate.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\views\register.php on line 20
+[14-Apr-2015 21:59:06 America/Chicago] PHP Warning:  include(controllers/registerValidate.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\views\register.php on line 20
+[14-Apr-2015 21:59:06 America/Chicago] PHP Warning:  include(controllers/registerValidate.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\views\register.php on line 20
+[14-Apr-2015 21:59:06 America/Chicago] PHP Warning:  include(): Failed opening 'controllers/registerValidate.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\views\register.php on line 20
+[16-Apr-2015 18:59:05 America/Chicago] PHP Warning:  include(headm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 26
+[16-Apr-2015 18:59:05 America/Chicago] PHP Warning:  include(headm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 26
+[16-Apr-2015 18:59:05 America/Chicago] PHP Warning:  include(): Failed opening 'headm.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\index.php on line 26
+[16-Apr-2015 18:59:05 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 27
+[16-Apr-2015 18:59:05 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 27
+[16-Apr-2015 18:59:05 America/Chicago] PHP Warning:  include(): Failed opening 'navm.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\index.php on line 27
+[16-Apr-2015 18:59:57 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 27
+[16-Apr-2015 18:59:57 America/Chicago] PHP Warning:  include(navm.html): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\index.php on line 27
+[16-Apr-2015 18:59:57 America/Chicago] PHP Warning:  include(): Failed opening 'navm.html' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\index.php on line 27
+[16-Apr-2015 19:25:01 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[16-Apr-2015 19:25:01 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[16-Apr-2015 19:25:01 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[16-Apr-2015 19:25:53 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[16-Apr-2015 19:25:53 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[16-Apr-2015 19:25:53 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[17-Apr-2015 18:32:53 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[17-Apr-2015 18:32:53 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[17-Apr-2015 18:32:53 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[17-Apr-2015 20:03:28 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[17-Apr-2015 20:03:28 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[17-Apr-2015 20:03:28 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[18-Apr-2015 07:07:23 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[18-Apr-2015 07:07:23 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[18-Apr-2015 07:07:23 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[21-Apr-2015 20:23:16 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[21-Apr-2015 20:23:16 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[21-Apr-2015 20:23:16 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:42:30 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:42:30 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:42:30 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:44:05 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:44:05 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:44:05 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:49:44 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:49:44 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 04:49:44 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:23:50 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:23:50 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:23:50 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:28:59 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:28:59 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:28:59 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:39:17 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:39:17 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:39:17 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:49:35 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:49:35 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:49:35 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:54:44 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:54:44 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 14:54:44 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:10:11 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:10:11 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:10:11 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:18:46 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:18:46 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:18:46 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:34:13 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:34:13 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:34:13 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:39:22 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:39:22 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-Apr-2015 15:39:22 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:14:07 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:14:07 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:14:07 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:24:43 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:24:43 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:24:43 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:31:47 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:31:47 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:31:47 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:54:45 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:54:45 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 06:54:45 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 07:17:43 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 07:17:43 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 07:17:43 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 07:19:29 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 07:19:29 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 07:19:29 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:19:21 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:19:21 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:19:21 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:46:03 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:46:03 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:46:03 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:49:35 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:49:35 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 08:49:35 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 09:51:25 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 09:51:25 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[01-May-2015 09:51:25 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[02-May-2015 15:21:46 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[02-May-2015 15:21:46 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[02-May-2015 15:21:46 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[03-May-2015 23:09:41 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[03-May-2015 23:09:41 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[03-May-2015 23:09:41 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[05-May-2015 06:02:44 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[05-May-2015 06:02:44 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[05-May-2015 06:02:44 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[06-May-2015 13:09:10 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[06-May-2015 13:09:10 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[06-May-2015 13:09:10 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[07-May-2015 21:04:01 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[07-May-2015 21:04:01 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[07-May-2015 21:04:01 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 10:03:03 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 10:03:03 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 10:03:03 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 17:00:44 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 17:00:44 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 17:00:44 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 18:08:13 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 18:08:13 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[09-May-2015 18:08:13 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[28-May-2015 07:08:24 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[28-May-2015 07:08:24 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[28-May-2015 07:08:24 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-May-2015 16:57:26 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-May-2015 16:57:26 America/Chicago] PHP Warning:  include(views/_db_set.php): failed to open stream: No such file or directory in D:\home\ishop311.com\wwwroot\indexm.php on line 21
+[30-May-2015 16:57:26 America/Chicago] PHP Warning:  include(): Failed opening 'views/_db_set.php' for inclusion (include_path='.;C:\php\pear') in D:\home\ishop311.com\wwwroot\indexm.php on line 21

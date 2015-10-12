@@ -1,0 +1,53 @@
+<section  align="center">
+  
+    <p>View meeting list here!</p>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip(); 
+});
+</script>
+
+
+<div ng-controller="meetingsController">
+
+
+<form name="myform"  
+method="post">
+
+<div > 
+ 
+Add meeting <input type="text" ng-model="meetingname" ng-required="true" placeholder="enter meeting"><br>
+<span class="red" ng-show="myform.meetingname.$invalid && myform.meetingname.$touched">Meeting name is required.
+</span>
+<br>
+<input type="button" ng-disabled="myform.$invalid" ng-click="addMeeting()" value="Add">
+</div>
+
+</form>  
+
+<p height="30"></p>
+ 
+<div class="meeting" ng-repeat="(key, meeting) in meetings" > 
+ 
+ <div class="center_2">
+<button data-toggle="tooltip" title="Delete this meeting?" ng-click="deleteMeeting(key)"><span class="glyphicon glyphicon-trash"></span></button>
+ 
+<a  data-toggle="tooltip" title="Go to Check-In URL" 
+ng-href="#/checkins/{{currentUser.$id}}/{{key}}"><span class="glyphicon glyphicon-plus"></span>
+ </a>  
+ 
+ 
+
+ 
+{{meeting.name}}
+ 
+</div>  
+
+ 
+</div>  
+
+
+<p height="30"></p>
+</div>  
+</section>

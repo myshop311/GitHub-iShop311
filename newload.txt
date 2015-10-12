@@ -1,0 +1,4 @@
+John,	Li,	24,	M
+Mei,	Smith,	23,	F
+Sam, 	Wong,	33,	M
+Sue,	Liu,	22,	F

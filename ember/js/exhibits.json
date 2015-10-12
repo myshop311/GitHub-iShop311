@@ -1,0 +1,25 @@
+{
+  "exhibits": [
+    {
+      "id": 1,
+      "artist_name": "Washington",
+      "title": "Abstract Works",
+      "exhibit_info": "Art is a diverse range of human activities and the products of those activities, usually involving imaginative or technical skill. In their most general form these activities include the production of works of art, the criticism of art, the study of the history of art, and the aesthetic dissemination of art.",
+      "image": "images/nyc-1.jpg"
+    },
+    {
+      "id": 2,
+      "artist_name": "Paul",
+      "title": "Art Watching",
+      "exhibit_info": "Art may be characterized in terms of mimesis (its representation of reality), expression, communication of emotion, or other qualities.  ",
+      "image": "images/nyc-2.jpg"
+    },
+    {
+      "id": 3,
+      "artist_name":  "Jacob",
+      "title": "The nature of art",
+      "exhibit_info": "The nature of art, and related concepts such as creativity and interpretation, are explored in a branch of philosophy known as aesthetics. ",
+      "image": "images/nyc-3.jpg"
+    }
+  ]
+}

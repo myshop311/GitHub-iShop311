@@ -1,0 +1,77 @@
+<section>
+  
+  <center>
+    <p>View Check-In list here!</p></center>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip(); 
+});
+</script>
+
+
+<div ng-controller="checkinsController">
+
+<center>
+<form name="myform"  
+novalidate> 
+<div class="center_1" > 
+Add Check-In
+
+<p>
+ <input type="firstname" name="firstname" 
+ ng-model="checkin.firstname" placeholder="First Name"  ng-required="true">
+<br>
+ <span  class="red" ng-show="myform.firstname.$invalid && myform.firstname.$touched">First name must be valid</span><br>
+ <input type="lastname" name="lastname" 
+ ng-model="checkin.lastname" placeholder="Last Name"  ng-required="true">
+ <br>
+ <span class="red" ng-show="myform.lastname.$invalid && myform.lastname.$touched">Last name must be valid</span><br>
+ <input type="email" name="email"
+  ng-model="checkin.email" placeholder="Email" ng-required="true">
+ <br>
+ <span  class="red"  ng-show="myform.email.$invalid && myform.email.$touched">Email must be valid</span><br>
+
+<input type="button" ng-disabled="myform.$invalid" ng-click="addCheckIn()" value="Add Check-In">
+</p>
+</div>
+
+</form>  
+</center>
+
+<p height="30"></p>
+  
+<div class="CheckIn" ng-repeat="(key, checkin) in checkins" > 
+  
+ <div class="center_2">
+
+
+<button data-toggle="tooltip" title="Delete this check-in?" ng-click="deleteCheckIn(key)"><span class="glyphicon glyphicon-trash"></span></button>
+ 
+<button  ng-click="showLove(checkin)" title="Show Love">add award</button>
+{{checkin.firstname}} {{checkin.lastname}} {{checkin.email}}
+</div>    
+
+<div class="center_3"  ng-repeat="(awardKey, award) in checkin.awards" > 
+ <button ng-click="deleteAward(checkinKey, award.awardKey)">remove award</button>{{award.gifttext}}
+</div>
+
+<div  class="center_3"  ng-show="checkin.show">
+<form name="awardform"
+ng-submit="addAward(key, checkin.gifttext)"
+novalidate>
+
+<input name="gifttext" type="gifttext"  ng-model="checkin.gifttext" placeholder="gift text">
+
+<button type="submit" >Add Award</button>
+
+
+</form> 
+
+  </div> 
+
+
+
+<p height="30"></p>
+</div>  
+</section>

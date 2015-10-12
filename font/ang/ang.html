@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en" ng-app="myApp">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>iShop311.com</title>
+<link rel="stylesheet" href="css/style.css">
+
+ 
+
+ 
+
+<script src="js/lib/angular.min.js"></script>
+
+<script src="js/lib/angular-route.min.js"></script> 
+
+ 
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+
+  <script src="https://cdn.firebase.com/libs/angularfire/0.9.1/angularfire.min.js"></script>
+  
+  <script src="https://cdn.firebase.com/js/client/2.1.0/firebase.js"></script>
+ 
+<script src="js/app.js"></script>
+<script src="js/services/Authentication.js"></script>
+
+<script src="js/controllers/login.js"></script>
+ 
+<script src="js/controllers/logout.js"></script>
+
+<script src="js/controllers/register.js"></script>
+
+<script src="js/controllers/meetings.js"></script>
+
+<script src="js/controllers/checkins.js"></script>
+<script src="js/controllers/status.js"></script>
+
+
+<body>
+
+
+<div class="container">
+
+
+<div  ng-include="'head.html'"></div> 
+ 
+<div  ng-include="'nav.html'"></div> 
+
+<div ng-controller="statusController" ng-show="currentUser.password.email"><span>{{currentUser.password.email}}</span>
+
+<p><a ng-href="#/logout">logout</a></p>
+
+</div> 
+
+
+<main ng-view></main>
+ 
+  
+</div>
+
+
+
+</body>
+</html>

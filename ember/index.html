@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>New York City - NYC Arts</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!--
+    DEFAULT APPLICATION TEMPLATE: This gets rendered in a browser as soon as "Ember.Application.create()" happens.
+  -->
+
+  <script type="text/x-handlebars">
+    <div class="container">
+      <header class="headerClass">
+        <h1 class="logo">
+          {{#link-to "index" class="homepageLinkClass"}}
+           New York City - NYC Arts
+          {{/link-to}}
+        </h1>
+      </header>
+      <nav class="navClass centerText">
+        {{#link-to "about" class="btn btn-primary"}}About{{/link-to}}
+        {{#link-to "collections" class="btn btn-primary"}}Collections{{/link-to}}
+        {{#link-to "exhibits" class="btn btn-primary"}}Exhibits{{/link-to}}
+        {{#link-to "notes" class="btn btn-primary"}}Notes{{/link-to}}
+      </nav>
+      <main class="mainClass cf">{{outlet}}</main>
+      <footer class="footerClass centerText cf">
+        <small>&copy; New York City - NYC Arts, 123 Main Street, New York City, NY 12345 (800)555-1212</small>
+      </footer>
+    </div>
+  </script>
+
+  <!--
+    The app's entire page structure is above this comment line.
+    All of our single-page templates are below this comment line.
+  -->
+
+  <!--
+    ====================================================
+    "HOME" PAGE TEMPLATE: displays the Home page content 
+    ====================================================
+  -->
+  <script type="text/x-handlebars" data-template-name="index">
+    <section id="home" class="pageClass clearfix">
+      <h2 class="homepageHeader">Welcome to NYC</h2>
+      <div class="homePageDiv vertAlign">
+        <img src="images/nyc-1.jpg" class="imageBorder" />
+      </div>
+      <div class="homePageDiv homePageCopy">
+      Many districts and landmarks in New York City have become well known, and the city received a record 56 million tourists in 2014, hosting three of the world's ten most visited tourist attractions in 2013.  Several sources have ranked New York the most photographed city in the world. Times Square, iconified as 'The Crossroads of the World',  is the brightly illuminated hub of the Broadway Theater District, one of the world's busiest pedestrian intersections, and a major center of the world's entertainment industry.  <br><br>
+          {{#link-to "about"}}<strong>learn more &raquo;</strong>{{/link-to}} 
+      </div>
+    </section>
+  </script>
+
+  <!--
+    =================================================
+    "ABOUT" PAGE TEMPLATE: displays the About content 
+    =================================================
+  -->
+
+  <script type="text/x-handlebars" id="about">
+ {{partial "about"}}
+  </script>
+
+  
+    <script type="text/x-handlebars" data-template-name='_about'>
+      <section id="about" class="pageClass">
+      <h2>About Us</h2>
+      <h3 class="aboutTagLine">Celebrating the Best of Modern Art</h3>
+      <img src="images/nyc-1.jpg" alt="About NYC" align="left" class="aboutImage imageBorder">
+      <p>
+      The situation deteriorated into attacks on New York's elite, followed by black New Yorkers and their property after fierce competition for a decade between immigrants and blacks for work. Rioters burned the Colored Orphan Asylum to the ground, but its more than 200 children escaped harm due to efforts of the city's largely Irish immigrant police force.  According to historian James M. McPherson (2001), at least 120 civilians were killed.   </p>
+      <h3>An Introduction</h3>
+      <p>
+    In 1898, the modern City of New York was formed with the consolidation of Brooklyn (until then a separate city), the County of New York (which then included parts of the Bronx), the County of Richmond, and the western portion of the County of Queens.[105] The opening of the subway in 1904, first built as separate private systems, helped bind the new city together. Throughout the first half of the 20th century, the city became a world center for industry, commerce, and communication. </p>
+      <p>
+     In 1904, the steamship General Slocum caught fire in the East River, killing 1,021 people on board. In 1911, the Triangle Shirtwaist Factory fire, the city's worst industrial disaster, took the lives of 146 garment workers and spurred the growth of the International Ladies' Garment Workers' Union and major improvements in factory safety standards.[106]</p>
+    </section>
+</script>
+ 
+
+
+
+
+  <!--
+    ============================================================
+    "COLLECTIONS" PAGE/TEMPLATE: displays the Collection content 
+    ============================================================
+  -->
+
+    <script type="text/x-handlebars" id="components/single-collection">
+      <h3>{{title}}</h3>
+      <img {{bind-attr src=image}} class="collectionsImage" align="left">
+      {{yield}}
+    </script>
+
+    <script type="text/x-handlebars" id="collections">
+      <section class="pageClass clearfix">
+        <h2>Collections</h2>
+        {{#each}}
+          {{#single-collection title=title image=image}}
+            {{copy}}
+          {{/single-collection}}
+        {{/each}}
+      </section>
+    </script>
+
+
+  <!--
+    ===================================================
+    "EXHIBITS" PAGE/TEMPLATE: displays all the exhibits 
+    ===================================================
+  -->
+  <script type="text/x-handlebars" id="exhibits">
+    <div class="pageClass">
+      <section class="exhibitSection cf">
+        <h2>Exhibits</h2>
+        <div>
+          There are currently <strong><em>{{totalExhibits}}</em></strong> exhibits running at NYC. visit us and see them all!!!
+        </div>
+        <ul class="singleExhibitList cf">
+        {{#each}}
+          <li class="singleExhibitListItem">
+            <h3>
+              {{#link-to 'exhibit' this}}
+                {{title}}
+              {{/link-to}}
+            </h3>
+            <span><em>by <strong>{{artist_name}}</strong></em></span>
+          </li>
+        {{/each}}
+        </ul>
+        <div>{{outlet}}</div>
+      </section>
+    </div>
+  </script>
+
+
+  <!--
+    =========================================================
+    "EXHIBIT" PAGE/TEMPLATE: lists only one exhibit at a time
+    =========================================================
+  -->
+  <script type="text/x-handlebars" id="exhibit">
+    <article class="singleExhibitContent">
+    <h2>{{exhibitTitle}}</h2>
+      <p>
+        <img {{bind-attr src=image}} class="singleExhibitImage imageBorder" align="left" />
+        {{exhibit_info}}
+      </p>
+    </article>
+  </script>
+
+  <!--
+    ===============================================
+    "NOTE" PAGE/TEMPLATE: displays the Note content
+    ===============================================
+  -->
+
+  <script type="text/x-handlebars" id="notes">
+    <article class="pageClass">
+      <h2>Notes</h2>
+      {{textarea placeholder="create a new note" value=newNote rows=10 cols=50}}
+      <p class="btnVolunteerParagraph">
+        <button {{action "newNote"}} class="btn btn-info">Save this note</button>
+      </p>
+      {{#each itemController="note"}}
+        <div class="singleEntry">
+        {{#if isEditing}}
+          <p><strong>EDIT THIS NOTE...</strong></p>
+          {{update-note value=copy}}
+          <p class="btnVolunteerParagraph">
+            <button {{action "saveNewNote"}} class="btn btn-info">Save this note</button>
+          </p>
+        {{else}}
+          {{copy}}
+          <hr/>
+          <p class="btnVolunteerParagraph">
+            <button {{action "editNote"}} class="btn btn-info">Edit this note</button>
+            <button {{action "deleteNote"}} class="btn btn-info">Delete this note</button>
+          </p>
+        {{/if}}
+        </div>
+      {{/each}}
+    </article>
+  </script>
+  
+  <script src="js/libs/jquery-1.10.2.js"></script>
+  <script src="js/libs/handlebars-1.1.2.js"></script>
+  <script src="js/libs/ember.min.js"></script>
+  <script src="js/libs/ember-data.js"></script>
+  <script src="js/libs/localstorage_adapter.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

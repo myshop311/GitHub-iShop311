@@ -1,0 +1,14 @@
+<div ng-controller="aboutController">
+
+<section class="login" align="center">
+  <h1>Hello!</h1>
+  <p> About us!</p>
+  
+  <select  ng-model="empName"> 
+  <option value="all">All</option>
+  <option ng-repeat="item in items" value="{{item.id}}">{{item.value}}</option>
+  
+  </select> 
+</section>
+
+</div>
